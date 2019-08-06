@@ -1,0 +1,8 @@
+com\mobiquityinc\packageapp\entity\Candidate.class
+com\mobiquityinc\packageapp\Packer.class
+com\mobiquityinc\packageapp\util\PackerConstants.class
+com\mobiquityinc\packageapp\entity\Item.class
+com\mobiquityinc\packageapp\comparator\ItemComparatorPrice.class
+com\mobiquityinc\packageapp\PackageAppApplication.class
+com\mobiquityinc\packageapp\exception\APIException.class
+com\mobiquityinc\packageapp\entity\Pack.class

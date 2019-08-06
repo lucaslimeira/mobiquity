@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.mobiquityinc.packageapp.PackageAppApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 7, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 6.51 s - in com.mobiquityinc.packageapp.PackageAppApplicationTests
