@@ -31,7 +31,7 @@ public class Packer {
 	public static String pack(String filePath) throws APIException {
 		StringBuilder sbResult = new StringBuilder();
 
-		//Read the file and transform the date in Java Objects
+		//Read the file and transform the date in Java Objects...
 		List<Pack> packages = transformFileToPackage(filePath);
 
 		for (Pack pack : packages) {
